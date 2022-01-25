@@ -4,9 +4,9 @@
 |   Enrollment No.  |   Name                    | GithubId        |
 |   --------------  |   --------------------    | ----------------|
 |    IEC2021075     |   Sudha Yadav             |     eliexi      |
-|    IEC2021076     |   Sahil Yadha             | sahilyadav516   |
+|    IEC2021076     |   Sahil Yadav             | sahilyadav516   |
 |    IEC2021077     |   Riddhi Kedia            |  Riddhikedia    |
-|    IEC2021078     |   Shivan Kumar Singh      |Shivamsinghindia |
+|    IEC2021078     |   Shivam Kumar Singh      |Shivamsinghindia |
 
 
 **Group No-**"19"
