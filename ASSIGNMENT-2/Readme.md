@@ -82,9 +82,7 @@ Output:
 6. Now, to filter the required data of the employee structure, to get to know about the names of those employees whose tenure is 3 or more than 3 years according to the given current date, we would use for loops, where i =0 is used as initialisation and i<10 is used as condition for the loop, also i++ is used as change. 
 7. Now inside this for loop we will be using if else statements for retrieving the required information of the employees. The condition for the if statement will be that if the difference between the input year and 3 is greater than the year of joining of the employee 
 8. Now if the year of joining of the employee is equal to the (input year-3) then we will check for the month by again using the if else statement and the condition.
-9. If the month of joining of the employee is less than the input month by the user then the information of that employee will be required by the user as this employee has completed the tenure of 3 years and hence it will be printed on the output screen.
-10.Now if the month of joining of the employee is equal to the month which the user has input, then we will check for the date by again using the if else statement.
-11.If the date of joining is less or equal to the input date by the user then the data of that employee is required by the user and hence will be printed on output screen. 
+9. If the month of joining of the employee is less than the input month by the user then the information of that employee will be required by the user as this employee has completed the tenure of 3 years and hence it will be printed on the output screen. Now if the month of joining of the employee is equal to the month which the user has input, then we will check for the date by again using the if else statement. If the date of joining is less or equal to the input date by the user then the data of that employee is required by the user and hence will be printed on output screen. 
 ---
 
 
