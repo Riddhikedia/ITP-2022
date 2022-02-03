@@ -42,7 +42,6 @@ grp19.exe
 ---
 **Test case**
 
-Find max
 ```
 Test Case-1
 Input:
